@@ -18,6 +18,10 @@
     display: none;
 }
 
+#plant path {
+    transition: 5s;
+}
+
 
 
 
