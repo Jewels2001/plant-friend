@@ -22,6 +22,12 @@
     transition: 5s;
 }
 
+q {
+    font-size: large;
+    font-style: italic
+}
+
+
 
 
 
@@ -86,3 +92,4 @@
 .cls-5 {
     stroke-dasharray: 0 0 18.06 18.06;
 }
+
